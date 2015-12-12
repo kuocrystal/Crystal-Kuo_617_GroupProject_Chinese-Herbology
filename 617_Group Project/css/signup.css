@@ -1,0 +1,78 @@
+header{
+	height: 55px;
+	background-color: #3A1A03;
+}
+header li{
+	list-style: none;
+	
+
+}
+
+.left{
+	padding-top:15px;
+	font-family: 'Trajan Pro 3';
+	
+	display: block;
+	float: left;
+	font-size: 20px;
+	margin: 0 .5em;
+	transition:all .5s;
+	color: #fdd099;
+	list-style: none;
+}
+
+.left li a{
+	text-decoration: none;
+	color: #fdd099;
+}
+
+.container{
+	background-image: url("../images/bk.jpg");
+	background-size: cover;
+	
+	height: 100%;
+}
+.jumbotron{
+	margin: 20px;
+
+
+}
+.tittle{
+	text-align: center;
+	font-family: 'Trajan Pro 3';
+	color: #3A1A03;
+	padding: 10px;
+}
+#img{
+	float: left;
+	margin: 30px;
+
+}
+.text{
+	padding: 20px;
+}
+.text h3{
+	color:white;
+}
+.text p{
+	color:white;
+	font-size: 7px;
+}
+.sssss{
+	background-image: url("../images/bgimg.jpg");
+	
+}
+.body{
+	font-family: 'Trajan Pro 3';
+	font-size: 22px;
+	height: 610px;
+	width: 750px;
+	margin-left: 200px;
+	text-align: center;
+}
+
+.body li{
+	display: block; 
+	margin-top: 50px;
+
+}
